@@ -19,7 +19,7 @@ Este projeto tem como objetivo importar dados de uma planilha Ods para um banco 
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN.git)
     ```
 
 2. execute o codigo python se houver modificado ao adicionado algum dado a planilha 'controle'
