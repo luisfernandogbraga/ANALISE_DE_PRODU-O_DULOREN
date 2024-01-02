@@ -20,7 +20,6 @@ Este projeto tem como objetivo importar dados de uma planilha Ods para um banco 
 
     ```bash
     git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
     ```
 
 2. execute o codigo python se houver modificado ao adicionado algum dado a planilha 'controle'
