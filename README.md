@@ -22,9 +22,9 @@ Este projeto tem como objetivo importar dados de uma planilha Ods para um banco 
     git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN.git)
     ```
 
-2. execute o codigo python se houver modificado ao adicionado algum dado a planilha 'controle'
+2. execute o codigo python se houver modificado ao adicionado algum dado a planilha 'controle'. OBS: A planilha é atualizada diáriamente
 
-3. Execute o sql abrindo o arquivo producao.db
+3. Execute o sql abrindo o arquivo producao.db . Nome da tabel: producao 
 
   
 ## Estrutura do Projeto
@@ -32,7 +32,7 @@ Este projeto tem como objetivo importar dados de uma planilha Ods para um banco 
 - `controle.ods`: Planilha Excel contendo os dados.
 - `Arquivo.csv`: Arquivo CSV temporário gerado durante a importação.
 - `producao.db`: Banco de dados SQLite3 para armazenar os dados.
-- 'producao': Nome da tabela.
+
 
 ## Resultados das analises feitas na SQL
 
