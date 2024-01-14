@@ -38,7 +38,8 @@ Este projeto tem como objetivo importar dados de uma planilha Ods para um banco 
 
 Qual é a sua etrutura:
 
-![info](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/cc2230b6-4220-41de-a24f-d1d2dedf3aa0)
+![Captura de tela 2024-01-13 191013](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/22d204e4-fad8-4e62-9637-023d1081a368)
+
 
 Qual é o total de metros que cada artigo á produziu:
 
@@ -48,9 +49,18 @@ Entre os artigos belles 15 e muriti 14, qual é a metregem:
 
 ![entre belles 15 e muriti 14](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/3ba2445e-ccf3-40e0-aadb-d77ffd477027)
 
-Qual maquina produziu mais do artigo belles 15:
+Qual máquina produziu mais do artigo belles 15:
 
-![QUAL MAQUINA PRODUZ MAIS ](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/8cad7fe5-d77a-4d79-84f0-1ede74c51b9a)
+![Captura de tela 2024-01-13 190533](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/8095ee6e-9d08-4157-9799-95c9f8eed155)
+
+Produção do dia 12/01/2024
+
+![Captura de tela 2024-01-13 190629](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/7daffac3-1e66-4bf9-a812-33d7b12179d5)
+
+![output](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/ea054c8f-ee19-4401-af8c-6084f0a399e1)
+
+![output1](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/90989987-3bb9-44f6-8c95-85906be4e2fa)
+
 
 
 
