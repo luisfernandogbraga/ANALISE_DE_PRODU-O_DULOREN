@@ -63,6 +63,8 @@ Produção do dia 12/01/2024
 
 ![1](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/fe0283c3-6dd6-471b-ad93-aff740f548b3)
 
+![1](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/a838a82f-8231-4632-aea5-e3b29a0fc89b)
+
 
 
 
