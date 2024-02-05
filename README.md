@@ -1,13 +1,16 @@
 # Projeto de Analise de Dados no SQLite3
 
-Olá, meu nome é Luis Fernando. Atualmente, sou colaborador em uma empresa têxtil privada, desempenhando a função de receber e liberar a produção diária. Minha responsabilidade na logística envolve a etapa crucial de armazenamento, na qual os produtos são acondicionados, aguardando a transferência para outros setores. Nesse contexto, é imperativo identificar e armazenar cada item de maneira precisa.
+Olá, meu nome é Luis Fernando. Fui colaborador em uma empresa têxtil privada, desempenhando uma função onde recebia e libera a produção diária. Minha responsabilidade nessa logística envolve a etapa crucial de armazenamento, na qual os produtos são acondicionados, aguardando a transferência para outros setores. Nesse contexto, é imperativo identificar e armazenar cada item de maneira precisa.
 
-Ao executar essa tarefa diariamente, percebi a oportunidade de aprimorar nosso processo por meio da análise dos dados que passam por mim. Essa iniciativa visa fornecer informações valiosas ao meu superior, contribuindo para uma gestão mais eficiente. Além disso, enxergo essa experiência como uma chance de aplicar os conhecimentos adquiridos no curso de análise de dados utilizando Python e SQL.
+Ao executar essa tarefa diariamente, percebi a oportunidade de aprimorar nosso processo por meio da análise dos dados que passam por mim. Essa iniciativa visa fornecer informações valiosas ao meu superior, contribuindo para uma gestão mais eficiente. Além disso, enxerguei essa experiência como uma chance de aplicar os conhecimentos adquiridos no curso de análise de dados utilizando Python e SQL.
 
-Estou entusiasmado em integrar a prática cotidiana com os aprendizados teóricos, buscando aprimorar nossos procedimentos operacionais e agregar valor ao nosso fluxo de trabalho.
+Estou entusiasmado em integrar a prática cotidiana com os aprendizados teóricos, buscando aprimorar meus procedimentos operacionais e agregar valor ao fluxo de trabalho.
 
-Este projeto tem como objetivo importar dados de uma planilha Ods para um banco de dados SQLite3. Ele utiliza a biblioteca pandas para manipulação de dados e o SQLite3 para visualização dos dados.
+Este projeto tem como objetivo importar dados de uma planilha Ods (excel) para um banco de dados SQLite3, para uma leitura mais rápida. Ele utiliza a biblioteca pandas para manipulação de dados e o SQLite3 para visualização dos dados.
+
+## OBJETIVO DO PROJETO É CRIAR INSIGHTS VALIOSOS PARA POSSIVEIS DICISÕES POSSIVEIS.
  
+
 ## Requisitos
 
 - Python 3.x
