@@ -60,13 +60,24 @@ Produção do dia 12/01/2024
 
 ![Captura de tela 2024-01-13 190629](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/7daffac3-1e66-4bf9-a812-33d7b12179d5)
 
-![output](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/ea054c8f-ee19-4401-af8c-6084f0a399e1)
+![2](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/9f70d12e-6ff0-455a-8acb-7e02ef1b7698)
 
-![1](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/5b18f0c1-4d33-4a06-b88c-21e6ffefaf60)
+![1](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/8c9ced4f-eaf9-4817-aee8-7ff824653ac0)
 
-![1](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/fe0283c3-6dd6-471b-ad93-aff740f548b3)
+![4](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/87e0776d-cdf9-42f3-afaa-915e0d60f164)
 
-![1](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/a838a82f-8231-4632-aea5-e3b29a0fc89b)
+![5](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/3dd3c260-0038-4757-9700-fbfceccfc284)
+
+![6](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/f6f9753b-8795-479c-b8a8-47b0f2545a04)
+
+![7](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/2c5b87a2-fe3b-4d54-b5f0-a9bb193afbcd)
+
+![8](https://github.com/luisfernandogbraga/ANALISE_DE_PRODUCAO_DULOREN/assets/134460985/8e0249e7-1bc2-4663-b1dd-22c7fd013b9c)
+
+
+
+
+
 
 
 
